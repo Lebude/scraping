@@ -1,4 +1,4 @@
-package com.example.clinic.model;
+package com.model;
 
 
 import lombok.*;
